@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /shop
 google_analytics: ''
 disqus: ''
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
@@ -21,7 +21,7 @@ authors:
     email: 
     web: https://coupa2.github.io/shop/
     twitter: 
-    description: "고르기 어려운 선물 골라드립니다."
+    description: "리뷰가 좋고 많은 사람들이 구매한 좋은 상품으로 열심히 골라봤습니다."
 
 
 # Plugins
